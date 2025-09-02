@@ -9,7 +9,7 @@ This project demonstrates clean architecture, reusable components, and scalable 
 ## 📸 Screenshots  
 | Intro Page | Intro Page 1 | Intro Page 2 |
 |------------|-------------|--------------|
-| ![Intro](images/intro_page.png) | ![Intro1](images/intro_page1.png) | ![Intro2](images/intro_page2.png) |
+| ![Intro](\images\intro_page.png) | ![Intro1](\images\intro_page1.png) | ![Intro2](\images\intro_page2.png) |
 
 ---
 
