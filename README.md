@@ -9,7 +9,7 @@ This project demonstrates clean architecture, reusable components, and scalable 
 ## 📸 Screenshots  
 | Intro Page | Intro Page 1 | Intro Page 2 |
 |------------|-------------|--------------|
-| ![Intro](\images\intro_page.png) | ![Intro1](\images\intro_page1.png) | ![Intro2](\images\intro_page2.png) |
+| ![Intro](images/intro_page.png) | ![Intro1](images/intro_page1.png) | ![Intro2](images/intro_page2.png) |
 
 ---
 
@@ -24,7 +24,7 @@ This project demonstrates clean architecture, reusable components, and scalable 
 
 ## 🗂️ Project Structure  
 ```
-
+```
 Flowva/
 │
 ├── images/                       # App assets and screenshots
@@ -45,6 +45,7 @@ Flowva/
 │   └── ...
 │
 └── pubspec.yaml                  # Dependencies and assets configuration
+```
 
 ````
 
@@ -106,9 +107,4 @@ Feel free to use, modify, and share with proper attribution.
 
 Big thanks to the **Flowva team** and the reviewers for this assessment opportunity. 🙌
 
-```
 
----
-
-Would you like me to add **status badges** (like Flutter version, GitHub Actions, or Platform support) to make it more professional?
-```
