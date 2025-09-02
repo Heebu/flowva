@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-
-import 'intro_page.dart';
+import 'view/intro_page.dart';
 
 
 void main() async {
@@ -27,6 +26,7 @@ class MyApp extends StatelessWidget {
           return MaterialApp(
             title: 'Flowva',
             debugShowCheckedModeBanner: false,
+            // home: HomeScreen(),
             home: SubscriptionScreen(),
           );
         },
