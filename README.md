@@ -1,5 +1,3 @@
-### **`README.md`**
-
 ```md
 # 🌊 Flowva - Flutter Test Assessment
 
@@ -20,7 +18,7 @@ This project demonstrates clean architecture, reusable components, and scalable 
 - 🧩 **Reusable UI widgets** for consistent styling  
 - ⚡ **Optimized state management** for smooth performance  
 - 🎨 **Custom design components** like subscription and tool cards  
-- 📱 **Responsive design** for various screen sizes
+- 📱 **Responsive design** for various screen sizes  
 
 ---
 
@@ -70,8 +68,6 @@ Ensure you have:
 
 ---
 
-````
-
 ### **Installation**
 ```bash
 # Clone the repository
@@ -95,13 +91,13 @@ flutter run
 
 * 💼 [Portfolio](https://my-cv-app-theta.vercel.app/)
 * 💻 [GitHub](https://github.com/Heebu)
-* 🐦 [LinkedIn](https://www.linkedin.com/in/idris-adedeji-1b3162246/)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/idris-adedeji-1b3162246/)
 
 ---
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
 Feel free to use, modify, and share with proper attribution.
 
 ---
@@ -110,5 +106,9 @@ Feel free to use, modify, and share with proper attribution.
 
 Big thanks to the **Flowva team** and the reviewers for this assessment opportunity. 🙌
 
-````
+```
 
+---
+
+Would you like me to add **status badges** (like Flutter version, GitHub Actions, or Platform support) to make it more professional?
+```
