@@ -139,6 +139,7 @@ class SubscriptionScreen extends StatelessWidget {
                     Container(
                       width: double.maxFinite,
                       decoration: BoxDecoration(
+                        color: Colors.transparent
                       ),
                       child: Column(
                         mainAxisAlignment: MainAxisAlignment.end,
