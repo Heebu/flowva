@@ -24,7 +24,7 @@ class ToolCard extends StatelessWidget {
           borderRadius: BorderRadius.circular(20),
           boxShadow: [
             BoxShadow(
-              color: Colors.red.shade100,
+              color: Color(0xFFFFE1E6),
               blurRadius: 8,
               offset: Offset(0, 4),
             ),
